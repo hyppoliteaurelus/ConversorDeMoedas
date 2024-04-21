@@ -1,6 +1,7 @@
-Conversor de Moedas
+                                                Conversor de Moedas
 
-Esta aplicação é um Conversor de Moedas em Java que interage com uma API de taxa de câmbio em tempo real. Aqui está uma explicação clara do que ela faz:
+Esta aplicação é um Conversor de Moedas em Java que interage com uma API de taxa de câmbio em tempo real. Aqui está uma explicação 
+clara do que ela faz:
 
 Apresentação do Menu:
         Quando você executa o programa, ele exibe um menu no console com diferentes opções de conversão de moedas, como USD para EUR, EUR para USD, USD para JPY, etc.
