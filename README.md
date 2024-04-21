@@ -1,5 +1,4 @@
-
-                                                Conversor de Moedas
+ Conversor de Moedas
 
 Esta aplicação é um Conversor de Moedas em Java que interage com uma API de taxa de câmbio em tempo real. Aqui está uma explicação 
 clara do que ela faz:
