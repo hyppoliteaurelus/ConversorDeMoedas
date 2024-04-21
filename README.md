@@ -25,3 +25,25 @@ Opção para Outra Conversão:
         Depois de realizar uma conversão, o programa pergunta se você deseja fazer outra conversão. Se sim, o menu será exibido novamente e você poderá escolher outra opção. Se não, o programa será encerrado.
 
 Em resumo, esta aplicação permite que você converta valores entre diferentes moedas de forma simples e rápida, utilizando taxas de câmbio em tempo real fornecidas por uma API externa.
+
+
+Objetivo
+
+O objetivo principal desta aplicação é fornecer aos usuários uma maneira fácil e conveniente de converter valores entre diferentes moedas, utilizando taxas de câmbio atualizadas em tempo real. Alguns dos objetivos específicos incluem:
+
+Facilidade de Uso:
+A aplicação oferece uma interface simples e amigável, apresentando um menu claro de opções de conversão e solicitando ao usuário apenas as informações necessárias, como a escolha da opção de conversão e o valor a ser convertido.
+
+Precisão:
+Ao se conectar a uma API externa que fornece taxas de câmbio atualizadas, a aplicação garante que as conversões sejam feitas com base em dados precisos e atualizados em tempo real, proporcionando resultados confiáveis.
+
+Eficiência:
+O processo de conversão é automatizado, o que torna a obtenção de resultados rápidos e eficientes. Os usuários podem realizar várias conversões consecutivas sem a necessidade de reiniciar o programa.
+
+Flexibilidade:
+A aplicação oferece uma variedade de opções de conversão, permitindo que os usuários convertam valores entre diferentes pares de moedas conforme sua necessidade ou interesse.
+
+Educacional:
+Além de fornecer uma ferramenta prática para conversão de moedas, a aplicação também pode servir como uma ferramenta educacional, permitindo aos usuários explorar as taxas de câmbio entre diferentes moedas e entender melhor como as conversões são realizadas.
+
+Em resumo, o objetivo desta aplicação é proporcionar uma solução eficaz e conveniente para as necessidades de conversão de moedas dos usuários, garantindo precisão, eficiência e facilidade de uso.
