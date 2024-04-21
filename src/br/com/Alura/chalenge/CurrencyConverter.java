@@ -1,3 +1,5 @@
+package br.com.Alura.chalenge;
+
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.util.Scanner;
